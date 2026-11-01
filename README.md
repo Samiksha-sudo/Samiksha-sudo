@@ -68,6 +68,7 @@ const samiksha = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
@@ -93,58 +94,103 @@ const samiksha = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🚀 JobHub AI</h3>
-<div align="center">
-<a href="https://github.com/Samiksha-sudo" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
-<br><br>
-<p><strong>Job application tracker and automation platform that ingests roles, tracks pipeline status from email, and automates applications.</strong></p>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Playwright-green?style=flat-square"/>
-</p>
-</td>
-
-<td width="50%">
 <h3 align="center">📄 ShortlistMe</h3>
 <div align="center">
-<a href="https://github.com/Samiksha-sudo" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Samiksha-sudo/ShortListMe" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
 <br><br>
 <p><strong>AI-powered CV tailoring platform that matches your CV to each job description to improve shortlisting chances.</strong></p>
 </div>
 <p align="center">
-<img src="https://img.shields.io/badge/FastAPI-teal?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/AI-orange?style=flat-square"/>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🎓 Campus to Corporate</h3>
+<div align="center">
+<a href="https://github.com/Samiksha-sudo/Campus_to_corporate" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<br><br>
+<p><strong>A career operating system for graduates: CV library, evidence bank, application pipeline, Gmail sync and managed job-search plans.</strong></p>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 </p>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">🤖 Outreach Automation</h3>
+<h3 align="center">📊 SkillTrajectory</h3>
 <div align="center">
-<a href="https://github.com/Samiksha-sudo" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Samiksha-sudo/skilltrajectory" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
 <br><br>
-<p><strong>Scrapes and verifies roles, then drafts personalised cold outreach and referral messages at scale.</strong></p>
+<p><strong>Skills-assessment and study-planning app: take a test, get a readiness level and skill gaps, and follow a weekly study plan.</strong></p>
 </div>
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/Automation-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 </td>
 
 <td width="50%">
-<h3 align="center">☁️ Backend Services</h3>
+<h3 align="center">₿ BTC Tracker</h3>
 <div align="center">
-<a href="https://github.com/Samiksha-sudo" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Samiksha-sudo/btc-tracker" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
 <br><br>
-<p><strong>Scalable Node.js and Go services on AWS: APIs, queues and event-driven pipelines.</strong></p>
+<p><strong>Real-time Bitcoin price tracker with live updates, historical charts, market trends and price alerts.</strong></p>
 </div>
 <p align="center">
-<img src="https://img.shields.io/badge/Go-blue?style=flat-square&logo=go"/>
-<img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">📅 Litta Take-Home</h3>
+<div align="center">
+<a href="https://github.com/Samiksha-sudo/Litta" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<br><br>
+<p><strong>Booking and dispatch web app, run with Docker Compose.</strong></p>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🧑‍💻 Portfolio (v1)</h3>
+<div align="center">
+<a href="https://github.com/Samiksha-sudo/Portfolio" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<br><br>
+<p><strong>My first personal portfolio site: a React front end with an Express back end that emails contact-form messages.</strong></p>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<h3 align="center">🌐 Fredrin</h3>
+<div align="center">
+<a href="https://github.com/Samiksha-sudo/Fredrin" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<br><br>
+<p><strong>A one-page About Me site: a single static HTML file with no build step, with automatic dark mode.</strong></p>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 </td>
 </tr>
